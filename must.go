@@ -1,4 +1,4 @@
-package helper
+package generic
 
 // Must unwraps error possibility from a set of return value from a function.
 // Must panics if err is non nil error.

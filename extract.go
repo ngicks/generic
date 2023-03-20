@@ -1,4 +1,4 @@
-package helper
+package generic
 
 func ExtractError[T any](v T, err error) error {
 	return err

@@ -1,4 +1,4 @@
-package helper
+package generic
 
 // Escape escapes v to a pointer of v.
 //
